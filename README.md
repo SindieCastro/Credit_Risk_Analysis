@@ -2,7 +2,7 @@
 ## Overview of Project
 ### Background
 
-THe client asked for a credit card risk analysis. Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. The client asked for different techniques to train and evaluate models with unbalanced classes.
+The client asked for a credit card risk analysis. Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. The client asked for different techniques to train and evaluate models with unbalanced classes.
 
 ### Purpose
 
